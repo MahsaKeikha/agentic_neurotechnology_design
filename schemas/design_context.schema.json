@@ -1,0 +1,1 @@
+{"type":"object","required":["intended_use"],"properties":{"intended_use":{"type":"string"},"requirements":{"type":"array"},"constraints":{"type":"array"}}}
